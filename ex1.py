@@ -1,8 +1,0 @@
-print "hello world"
-print "learing git"
-print "git process"
-print "1. git clone or git init"
-print "2. git status"
-print "3. git checkout -b dev :'create new dev branch'"
-print "4. git pull "
-print "5. git checkout -b feature_branchname"
